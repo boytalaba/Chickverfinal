@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ADDRESS": "0xA715b77ad3368Dffb2feec052867d2848EC8236c",
+    "SCAN_LINK": "https://scout.ech.network/token/0xA715b77ad3368Dffb2feec052867d2848EC8236c",
+    "NETWORK": {
+        "NAME": "Echelon",
+        "SYMBOL": "ECH",
+        "ID": 3000
+    },
+    "NFT_NAME": "ChickElon",
+    "SYMBOL": "CHKELN",
+    "MAX_SUPPLY": 2222,
+    "WEI_COST": 
+    50000000000000000,
+    "DISPLAY_COST": 50,
+    "GAS_LIMIT": 28500,
+    "MARKETPLACE": "",
+    "MARKETPLACE_LINK": "",
+    "SHOW_BACKGROUND": true
+}
